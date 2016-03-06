@@ -11,7 +11,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Bounds Test")]
-[assembly: AssemblyCopyright("Copyright © Jonathan S. Schneider 2007")]
+[assembly: AssemblyCopyright("Copyright © Jonathan S. Schneider 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]		
 
