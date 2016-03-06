@@ -87,7 +87,7 @@ namespace BoundsTest
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(244, 16);
             this.label4.TabIndex = 4;
-            this.label4.Text = "Copyright © 2007 Jonathan S. Schneider";
+            this.label4.Text = "Copyright © 2016 Jonathan S. Schneider";
             // 
             // label5
             // 
